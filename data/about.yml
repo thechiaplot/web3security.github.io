@@ -1,0 +1,48 @@
+# work process
+work_process:
+  enable : false
+  title : "Work Process"
+  item:
+  - title : "Research and Plan"
+    icon : "images/icons/plan.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Design and Develop"
+    icon : "images/icons/design.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Deliver"
+    icon : "images/icons/print.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+# team
+team:
+  enable: true
+  title : "Our awesome mooncrew"
+  team_member:
+    - title : "Drew"
+      image : "images/team/drew.png"
+      designation : "Chief Theriogenology Officer"
+      
+    - title : "Tegridy Fo0ds"
+      image : "images/team/thefo0d.jpeg"
+      designation : "Chief Evangelism Officer and Chairman of the Bored"
+      
+    - title : "Hendrik"
+      image : "images/team/hendrik.png"
+      designation : "Chief Fungibility Officer and Burrow Development (CFO and Biz Dev)"
+
+    - title : "Speedmann"
+      image : "images/team/speedmann.png"
+      designation : "Chief Production, Process and Protocol Officer"
+
+    - title : "Blaktron"
+      image : "images/team/blaktron.png"
+      designation : "Architect of Sophisticated Systems and Harmonious Online Liaisons Executive"
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  title : "My Clients"
+  # clients logo comes from 'data/homepage.yml' file

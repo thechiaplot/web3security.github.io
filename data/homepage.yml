@@ -1,0 +1,202 @@
+# banner
+banner:
+  title : "Marmotverse <br> The first on-chain NFT on the Chia blockchain"
+
+# about
+about:
+  enable : true
+  content : "The Marmotverse On-Chain Non-Fungible Token (NFT) project will be the premiere Art project and exclusive NFT-ownership club on the Chia blockchain. Instead of storing NFT files on unsecured and centralized Web 2.0 storage, or leveraging a competing blockchains, we will be storing our assets directly on the Chia blockchain for maximum longevity and reliability."
+  button:
+    enable : true
+    label : "learn more"
+    URL : "about"
+
+# skill
+skill:
+  enable : false
+  title : "Projects"
+  item:
+    - title : "Space Marmots "
+      progress : "30%"
+      color : "#fdb157"
+      
+    - title : "TBA"
+      progress : "0%"
+      color : "#9473e6"
+
+    - title : "TBA"
+      progress : "0%"
+      color : "#bdecf6"
+
+    - title : "TBA"
+      progress : "00%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : false
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior UX Designer"
+      company : "WEBEX"
+      duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "UX & UI Designer"
+      company : "AUGMEDIX"
+      duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior UI Designer"
+      company : "THEMEFISHER"
+      duration : "Sep 2014 - Present"
+
+# education
+education:
+  enable : true
+  title : "Roadmap"
+  item:
+    - title : "The Space Marmots idea was born"
+      year : "10.01.2022"
+      academy : "The first idea arises"
+      
+    - title : "The team assembles"
+      year : "11.01.2022"
+      academy : "Just after a short period of time since the idea was born, the great team now known as the mooncrew is assembled"
+      
+    - title : "Our first prototype arrives"
+      year : "16.01.2022"
+      academy : "We published the first prototype of our awesome Marmots to the twitterverse"
+
+    - title : "Brainstorming ideas about possible Marmots"
+      year : "16.01.2022"
+      academy : "We published the first prototype of our awesome Marmots to the twitterverse"
+
+    - title: "First SM1 pre-sales event"
+      year: "18.01.2022"
+      academy: "It was a blast, we sold out in less than 3 Blocks 🎉"
+
+    - title: "First Marmot on Testnet10"
+      year: "23.01.2022"
+      academy: "Laser Eye Canon Marmot #1 arrived at testnet10. Fully on chain."
+
+    - title: "Second SM1 pre-sales event"
+      year: "25.01.2022"
+      academy: "Another 75 SM1 have been sold in mere minutes. This time on offerbin.io *and* hash.green"
+
+    - title: "It's groundhog day"
+      year: "02.02.2022"
+      academy: "Groundhog day is special to us, so prepare for the final pre-sales event of SM1."
+
+    - title: "Artwork creation"
+      year: "Jan./Feb. 2022"
+      academy: "We're working hard on delivering the best artwork for our spacemarmots."
+
+    - title: "NFT Tech work starts"
+      year: "March 2022"
+      academy: "We're expecting to start working on the NFT Standard."
+
+    - title: "Nearing completion"
+      year: "April 2022"
+      academy: "By April, we plan to deliver our first alpha stage NFT to you."
+
+    - title: "Release of Chia's NFT Standard"
+      year: "End of April 2022"
+      academy: "This is a guess, but we hope the NFT Standard will be ready by end of April."
+
+# service
+service:
+  enable : true
+  title : "Our NFT Collections"
+  item:
+    - title : "Space Marmots"
+      icon : "ti-rocket"
+      content : "Space Marmots will be a fully decentralized, high-quality Marmot based NFT that will exist as long as the Chia Blockchain does. They will be sold at low prices during the pre-sale period with final pricing set once the rest of the Chia NFT Gallery infrastructure has been released."
+      highlighted : true
+
+#    - title : "TBA"
+#      icon : "ti-vector"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      highlighted : false
+#
+#    - title : "TBA"
+#      icon : "ti-panel"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      highlighted : false
+#
+#    - title : "TBA"
+#      icon : "ti-panel"
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      highlighted : false
+#
+#    - title: "TBA"
+#      icon: "ti-panel"
+#      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      highlighted: false
+# marmots
+marmots:
+  enable : true
+  title : "Marmot Showcase"
+  item_show : 5
+  # marmots item comes from 'data/marmots.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Happy Token Owner 1"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "this is an enterprise-quality marmot project good sir"
+      
+    - name : "Happy Token Owner 2"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "You guys are doing a great job!!! 👏🏼👏🏼"
+      
+    - name : "Happy Token Owner 3"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "it's great to see that a real community is getting formed around chia and stuff around it"
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
