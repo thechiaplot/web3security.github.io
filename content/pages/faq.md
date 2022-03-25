@@ -2,7 +2,7 @@
 title: "Frequently Asked Questions"
 date: 2022-01-12T12:14:34+06:00
 description: "Frequently Asked Questions"
-draft: false
+draft: true
 ---
 
 ### What are you doing to ensure fair distribution of the SM1 tokens?

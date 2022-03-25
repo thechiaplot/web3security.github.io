@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-description: "Marmotverse Blog."
+description: "Web3 Security Blog."
 draft: false
 ---

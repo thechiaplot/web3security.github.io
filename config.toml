@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "https://marmotverse.io"
+baseURL = "https://web3security.io"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Marmotverse"
+title = "Web3 Security"
 
 # css plugins
 [[params.plugins.css]]
@@ -41,29 +41,14 @@ name = "Blog"
 weight = 2
 
 [[menu.main]]
-URL = "marmots"
-name = "Marmot Showcase"
-weight = 3
-
-[[menu.main]]
-URL = "pages/whitepaper"
-name = "Whitepaper"
-weight = 4
-
-[[menu.main]]
 URL = "pages/faq"
 name = "FAQ"
-weight = 5
-
-[[menu.main]]
-URL = "https://discord.gg/cb9TTWKqPZ"
-name = "Discord"
-weight = 6
+weight = 3
 
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = 4
 
 
 # default parameters
@@ -74,11 +59,11 @@ logo = ""
 theme_color = "#41824f"
 # contact info
 # phone = "+880 2544 658 256"
-email = "Please contact us via our Discord"
+email = "Please contact us via email admin@web3security.io"
 # address = "125/A, CA Commercial Area, California, USA"
 # meta description
-author = "Marmotverse Team"
-description = "Enter the Marmotverse Chia on-chain NFT Project"
+author = "Chris Dupres"
+description = "Web 3 Security Analysis Project"
 # google analytics
 google_analytics_id = "" # Your ID
 # baidu site verification
@@ -86,7 +71,7 @@ baidu_site_verification = "" #Your verification code
 # baidu analytics
 baidu_analytics_id = "" #Your ID
 # copyright
-copyright = "Copyright &copy; 2022 marmotverse.io"
+copyright = "Copyright &copy; 2022 Chris Dupres"
 
 
 # preloader
@@ -115,8 +100,8 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "icon-discord"
-URL = "https://discord.gg/cb9TTWKqPZ"
+URL = "https://discord.gg/NpcJBMQhkX"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "https://twitter.com/marmotverse"
+URL = "https://twitter.com/blaktron"

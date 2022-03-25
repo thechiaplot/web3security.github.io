@@ -1,31 +1,34 @@
 ---
 title: "About"
-description: "This is meta description."
+description: "About the Web 3 Security Project"
 author_image : "images/about/author.png"
 author_signature : "images/about/signature.png"
 draft: false
 ---
-### How it all began
-In a galaxy far away 5.3 million years ago the first marmots came into being. Not much is known about these marmota other than they were simple foraging marmots; many living off various grasses and grains found on a planet called Earth. The year 2022 was the first year our marmot brethren made it into space, hijacking a ride on a phallic looking rocket made not by the great human of history elon, but the other guy. Once in space the early space faring marmots knew this was their Destiny, and so the first Marmot Moon mission was launched. Funded by a new cryptocurrency called "Chia" the marmota built the most legendary rocket in marmot history the "Gopher1". Neil Armarmot, first marmot on the moon, dubbed the occasion
+### Who is Chris Dupres
 
-> This is one small step for man, one giant leap for Marmot Kind
+Chris Dupres is an experienced Information Technology and Security professional with decades of experience working for dozens of major organizations, both as an employee and as a consultant.
 
+About a year before starting the Web 3 Security project he started a small blog about the Chia Cryptocurrency called The Chia Plot (https://thechiaplot.net) and has spent the time since studying the Web 3 and Cryptocurrency ecosystem.
 
-This first mission to the moon would be the catalyst that our first marmota would use in order to build the moon base "Nutria1337" and so the Marmot Moon Crew was born.
+In that time he has seen many of the same mistakes made by traditional IT organizations when trying to build lasting infrastructure. Security is a second class citizen, which has been shocking in an industry built off cryptography. 
 
-Since these fateful moments in marmot history we have traveled many galaxies and have saved the marmot race from what would have been certain extinction. Marmot Moon Crew for life.
-
-Long live the Marmota!
-
+This project was born from the idea that very few people are shining a light on the Web 3 and Cryptocurrency projects popping up out of the woodwork. From Key Managament, to project deployment practices, to testing / QA / User Acceptance Testing to audits and audit responses we are going to pick up the rocks and inspect the moss underneath.
 
 ### What do we do
-The Marmotverse On-Chain Non-Fungible Token (NFT) project will be the premiere Art project and exclusive NFT-ownership club on the Chia blockchain. Instead of storing NFT files on unsecured and centralized Web 2.0 storage, or leveraging a competing blockchain, we will be storing our assets directly on the Chia blockchain for maximum longevity and reliability.
 
-The first Marmotverse NFT series will be Space Marmots. The Space Marmots NFT minting event will encompass 2100 provably unique Marmots. In keeping with our desire to be a positive contribution to the Chia community, we are delaying our minting event to allow us to review the NFT Standard prior to release.
-### One more thing
+Each project will be undertaken as a labour of love, and we will not be funded by anyone or their competitors. That is important because we might get pretty mean here about projects that do not tell the truth, or do a poor job with their security.
 
-We at the Marmotverse are dedicated to helping a greater cause.
+Projects are going to be judged on 5 main criteria:
 
-Therefore, 10% of all our sales are going to support the  [Marmot recovery foundation](https://marmots.org) which is dedicated to safe the [Vancouver Island Marmot](https://marmots.org/about-marmots/animal-profile/).
+#### Codebase
 
-We love helping marmots in need.
+We will review all publicly available code for a number of factors, including (but not limited to): does it do what they say it does? Are there major vulnerabilities in packages they use? Do they respond to bugs and issues? Do they use a clear deployment process?
+
+This is important because so many projects talk a big game about what they do, or will do, but the reality is that they don't actually have much in their github beyond a fork of geth and a simple website.
+
+#### Infrastructure
+
+I will be analysing any infrastructure they run publicly, and any documentation they have produced about internal infrastructure. This will involve expert review, security scans and projects will be judged on both the security and reliability of the infrastructure they run, as well as how critical it is to the operation of their project.
+
+If a project is promising to change the financial future of the globe but do not use a reverse proxy or WAF in front of the web server and run the database with all the financial details of their customers on the same box we will probably have a problem.
