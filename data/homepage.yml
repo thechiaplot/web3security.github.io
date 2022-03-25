@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Web 3 Security <br> Analysing Web 3 companies for traditional security mistakes"
+  title : "Web3 Security <br> <br> Analyzing Web3 companies for traditional security mistakes"
 
 # about
 about:
   enable : true
-  content : "Web 3 Security is a project designed to analyze Web 3 and other Cryptocurrency projects to make sure they do what they say they do, and do it well."
+  content : "Web3 Security is a project designed to analyze Web3 and other Cryptocurrency projects to make sure they do what they say they do, and do it well."
   button:
     enable : true
     label : "learn more"
@@ -16,7 +16,7 @@ skill:
   enable : false
   title : "Projects"
   item:
-    - title : "Space Marmots "
+    - title : "TBA "
       progress : "30%"
       color : "#fdb157"
       
