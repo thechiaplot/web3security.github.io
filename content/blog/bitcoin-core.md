@@ -1,9 +1,9 @@
 ---
-title: "Project Name Here"
+title: "Bitcoin-core"
 date: 2022-01-17T12:00:00-06:00
 image: "images/blog/post-1.jpg"
-description: "Project Description Here"
-draft: true
+description: "The main implementation of Bitcoin"
+draft: false
 ---
 
 
