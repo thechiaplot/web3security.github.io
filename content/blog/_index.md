@@ -1,5 +1,5 @@
 ---
-title: "Blog"
-description: "Web3 Security Blog."
+title: "Projects"
+description: "Completed Web3 Security Projects"
 draft: false
 ---
