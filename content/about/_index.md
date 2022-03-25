@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "About the Web 3 Security Project"
-author_image : "images/about/author.png"
+author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
 draft: false
 ---
