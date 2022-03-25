@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Marmotverse <br> The first on-chain NFT on the Chia blockchain"
+  title : "Web 3 Security <br> Analysing Web 3 companies for traditional security mistakes"
 
 # about
 about:
   enable : true
-  content : "The Marmotverse On-Chain Non-Fungible Token (NFT) project will be the premiere Art project and exclusive NFT-ownership club on the Chia blockchain. Instead of storing NFT files on unsecured and centralized Web 2.0 storage, or leveraging a competing blockchains, we will be storing our assets directly on the Chia blockchain for maximum longevity and reliability."
+  content : "Web 3 Security is a project designed to analyze Web 3 and other Cryptocurrency projects to make sure they do what they say they do, and do it well."
   button:
     enable : true
     label : "learn more"
@@ -54,7 +54,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Roadmap"
   item:
     - title : "The Space Marmots idea was born"
@@ -107,7 +107,7 @@ education:
 
 # service
 service:
-  enable : true
+  enable : false
   title : "Our NFT Collections"
   item:
     - title : "Space Marmots"
@@ -134,12 +134,6 @@ service:
 #      icon: "ti-panel"
 #      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 #      highlighted: false
-# marmots
-marmots:
-  enable : true
-  title : "Marmot Showcase"
-  item_show : 5
-  # marmots item comes from 'data/marmots.yml' item.
 
 # testimonial
 testimonial:
