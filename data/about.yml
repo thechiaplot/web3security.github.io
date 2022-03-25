@@ -18,7 +18,7 @@ work_process:
 
 # team
 team:
-  enable: true
+  enable: false
   title : "Our awesome mooncrew"
   team_member:
     - title : "Drew"
